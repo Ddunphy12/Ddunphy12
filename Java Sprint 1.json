@@ -1,0 +1,56 @@
+{
+"hunter_subclasses":[
+{
+"name": "Arcstrider",
+"super_abilities":["Arc Staff", "Gathering Storm", "Storm's Edge"],
+"abilities":["Class Ability", "Movement Ability", "Arc Melee", "Arc Grenade"],
+"aspects":["Flow State", "Tempest Strike", "Lethal Current", "Ascension"],
+"number_of_fragments": 16,
+"debuff": true 
+},
+{
+"name": "Gunslinger",
+"super_abilities":["Golden Gun: Deadshot", "Golden Gun: Marksman", "Blade Barrage"],
+"abilities":["Class Ability", "Movement Ability", "Arc Melee", "Arc Grenade"],
+"aspects":["Knock 'em down", "On your mark", "Gunpowder gamble"],
+"number_of_fragments": 16,
+"debuff": true 
+},
+{
+"name": "Nightstalker",
+"super_abilities":["Shadowshot: Moebius Quiver", "Shadowshot: Deadfall", "Spectral Blades"],
+"abilities":["Class Ability", "Movement Ability", "Arc Melee", "Arc Grenade"],
+"aspects":["Trapper's ambush", "Vanishing step", "Stylish executioner"],
+"number_of_fragments": 16,
+"debuff": true 
+},
+{
+"name": "Revenant",
+"super_abilities":["Silence and Squall"],
+"abilities":["Class Ability", "Movement Ability", "Arc Melee", "Arc Grenade"],
+"aspects":["Winter's shroud", "Shatterdive", "Grim harvest", "Touch of winter"],
+"number_of_fragments": 16,
+"debuff": true 
+},
+{
+"name": "Threadrunner",
+"super_abilities":["SilkStrike"],
+"abilities":["Class Ability", "Movement Ability", "Arc Melee", "Arc Grenade"],
+"aspects":["Widow's silk", "Ensnaring slam", "Treaded specter", "Whirling maelstorm"],
+"number_of_fragments": 14,
+"debuff": true 
+},
+{
+"name": "Prismatic",
+"super_abilities":[ "Golden Gun: Marksman", "Silence and Squall", "Storm's Edge", "Shadowshot: Deadfall", "SilkStrike"],
+"abilities":["Class Ability", "Movement Ability", "Arc Melee", "Arc Grenade"],
+"aspects":["Ascension", "Stylish executioner", "Gunpowder gamble", "Winter's shroud","Treaded specter"],
+"number_of_fragments": 21,
+"debuff": true 
+}
+]
+}
+
+
+
+
